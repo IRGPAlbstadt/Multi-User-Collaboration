@@ -1,0 +1,6 @@
+C:\Users\Test\Desktop\protobuf-net-master\src\protobuf-net\bin\Debug\netstandard1.3\protobuf-net.deps.json
+C:\Users\Test\Desktop\protobuf-net-master\src\protobuf-net\bin\Debug\netstandard1.3\protobuf-net.dll
+C:\Users\Test\Desktop\protobuf-net-master\src\protobuf-net\obj\Debug\netstandard1.3\protobuf-net.csprojAssemblyReference.cache
+C:\Users\Test\Desktop\protobuf-net-master\src\protobuf-net\obj\Debug\netstandard1.3\protobuf-net.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\protobuf-net-master\src\protobuf-net\obj\Debug\netstandard1.3\protobuf-net.AssemblyInfo.cs
+C:\Users\Test\Desktop\protobuf-net-master\src\protobuf-net\obj\Debug\netstandard1.3\protobuf-net.dll
